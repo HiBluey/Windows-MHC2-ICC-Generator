@@ -3,6 +3,6 @@ A tool to generate Windows 11 HDR/SDR calibration profiles (MHC2 ICC) with custo
 
 1.需要先安装numpy
 
-2.1DLUT格式为txt
+2.3*1DLUT格式为txt，支持256P或者4096P，一般来说可以用lightillusion系软件生成256点的，或者calman支持生成更多点位，取值范围0-65535（16bit）
 
 3.100%由Gemini 3 Pro生成
